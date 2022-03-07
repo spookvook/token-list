@@ -126165,6 +126165,20 @@
       "extensions": {
         "twitter": "https://twitter.com/astrals_nft"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "ADLSd3T3WVZ28xDztJqYJyu8UZzDgpgX7jVYFhQMmEAx",
+      "symbol": "STYN",
+      "name": "Sportyn token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ADLSd3T3WVZ28xDztJqYJyu8UZzDgpgX7jVYFhQMmEAx/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.sportyn.com/index.html"
+      }
     }
   ],
   "version": {
